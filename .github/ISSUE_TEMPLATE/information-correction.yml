@@ -1,0 +1,43 @@
+name: 信息更正
+description: 提交价格、政策、活动或失效链接的可核验更正
+title: "[更正] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢帮助保持内容准确。请勿提交账号密码、Cookie、Session、验证码、银行卡资料或其他个人信息。
+  - type: input
+    id: page
+    attributes:
+      label: 需要更正的页面
+      placeholder: 例如 guides/chatgpt-plus-price.md
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 当前内容与问题
+      description: 请复制需要更正的短句，并说明问题。
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: 公开来源
+      description: 优先提供官方网页链接。
+      placeholder: https://...
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: 建议修改方式
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: 隐私确认
+      options:
+        - label: 我确认提交内容不包含账号凭证、支付信息或第三方个人信息。
+          required: true
