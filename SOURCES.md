@@ -1,15 +1,18 @@
 # 资料来源与核对记录
 
-> 本页记录项目引用的主要来源、核对日期和支持的事实。最后更新：2026-08-20。
+> 本页记录项目引用的主要来源、核对日期和支持的事实。最后更新：2026-08-24。
 
 ## OpenAI 官方资料
 
 | 来源 | 用途 | 核对日期 |
 | --- | --- | --- |
-| [ChatGPT Pricing](https://openai.com/chatgpt/pricing/) | ChatGPT 套餐及官方价格入口 | 2026-08-20 |
-| [Why was my credit card declined?](https://help.openai.com/en/articles/7232916-why-was-my-credit-card-declined) | 银行卡失败原因和排查方向 | 2026-08-20 |
+| [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777) | Plus 价格、订阅步骤、账单入口及扣款后未激活排查 | 2026-08-24 |
+| [ChatGPT Pricing](https://openai.com/chatgpt/pricing/) | ChatGPT 套餐及官方价格入口 | 2026-08-24 |
+| [Why was my credit card declined?](https://help.openai.com/en/articles/7232916-why-was-my-credit-card-declined) | 银行卡失败原因和排查方向 | 2026-08-24 |
+| [Canceling your ChatGPT subscription](https://help.openai.com/en/articles/7232927) | 网页、Apple 与 Google Play 取消路径 | 2026-08-24 |
+| [ChatGPT subscription refund](https://help.openai.com/en/articles/7232895) | 不同购买渠道的退款申请说明 | 2026-08-24 |
 | [Multi-currency billing](https://help.openai.com/en/articles/10421635-multicurrency-billing) | 本地币种和结算价格说明 | 2026-08-20 |
-| [Terms of Use](https://openai.com/policies/terms-of-use/) | 账号凭证、注册和使用边界 | 2026-08-20 |
+| [Terms of Use](https://openai.com/policies/terms-of-use/) | 账号凭证、注册和使用边界 | 2026-08-24 |
 | [Publishers and Developers FAQ](https://help.openai.com/en/articles/12627856-publishers-and-developers-faq) | ChatGPT 搜索发现和 OAI-SearchBot 说明 | 2026-08-20 |
 
 ## WildAI 公开页面

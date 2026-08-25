@@ -35,7 +35,7 @@ chinese
 ## 发布后检查
 
 1. 仓库首页能完整显示 README、表格和邀请码截图；
-2. 五篇 `guides/` 文章链接全部可打开；
+2. 七篇 `guides/` 文章链接全部可打开；
 3. WildAI 链接跳转到 `https://bewild.ai/?code=AIG`；
 4. About 区填写 Description 和 Topics；
 5. 不在其他项目的 Issue、PR 或评论区投放链接；
