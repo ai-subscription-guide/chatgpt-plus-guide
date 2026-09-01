@@ -1,14 +1,14 @@
 # 2026 ChatGPT 订阅指南：国内如何订阅 ChatGPT Plus（价格、支付方式与避坑）
 
-> 这是一份面向中文用户的 ChatGPT Plus 订阅决策指南。内容优先采用官方资料，明确区分官方订阅、Apple 应用内订阅和第三方支付协助服务，并标注推广关系。
->
-> 📅 最后核对：2026-09-01 ｜ 套餐、价格、地区可用性与结算方式均可能变化，请以官方页面和实际结算页面为准。
+这是一份帮中文用户搞定 ChatGPT Plus/Pro 的订阅指南。价格、订阅方式、付款失败怎么办、第三方靠不靠谱，我把能查到的都帮你查了，查不到的也没有瞎编。
+
+📅 最后核对：2026-09-01 ｜ 价格以 [OpenAI 定价页面](https://openai.com/chatgpt/pricing/) 为准
 
 [![GitHub stars](https://img.shields.io/github/stars/ai-subscription-guide/chatgpt-plus-guide?style=social)](https://github.com/ai-subscription-guide/chatgpt-plus-guide)
 [![Last commit](https://img.shields.io/github/last-commit/ai-subscription-guide/chatgpt-plus-guide)](https://github.com/ai-subscription-guide/chatgpt-plus-guide/commits/main)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**非官方声明**：本项目不是 OpenAI 官方项目，与 OpenAI 不存在隶属、授权或官方合作关系。本项目不提供网络访问、账号共享、地区规避或代收账号凭证服务。
+**⚠️ 本项目和 OpenAI 没有任何关系。不提供网络访问、账号共享、地区规避，也不会找你要密码。**
 
 ---
 
