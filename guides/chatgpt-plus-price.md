@@ -15,8 +15,8 @@ OpenAI 当前官方说明显示，ChatGPT Plus 的基础价格为 **20 美元/�
 | Free | $0/月 | 体验简短编程任务，模型、功能和用量有限制 |
 | Go | $8/月 | 面向轻量级编程任务 |
 | Plus | $20/月 | Web、CLI、IDE 扩展和 iOS；自动代码审查、Slack 集成、GPT-5.6 模型系列 |
-| Pro 5x | $100/月 | 包含 Plus 功能；Codex 用量约为 Plus 的 5 倍；可用 Codex-Spark 研究预览 |
-| Pro 20x | $200/月 | 包含 Plus 功能；Codex 用量约为 Plus 的 20 倍；可用 Codex-Spark 研究预览；无限桌面语音 |
+| Pro 5x | $100/月 | 包含 Plus 的 GPT-5.6 Sol、Terra、Luna 与其他功能；Codex 用量约为 Plus 的 5 倍 |
+| Pro 20x | $200/月 | 包含 Plus 的 GPT-5.6 Sol、Terra、Luna 与其他功能；Codex 用量约为 Plus 的 20 倍；无限桌面语音 |
 | Business | $20/用户/月起 | 团队工作区、管理控制、SAML SSO 和 MFA；年付起价且至少 2 位用户 |
 
 Enterprise 与 Edu 通常需要联系销售。Pro 20x 的“无限语音”不代表 Codex 任务无限：通过语音发起的任务仍会消耗 Codex 用量。ChatGPT 订阅和 API 是两套计费系统，Plus、Go 和 Pro 都不包含 API 使用额度。
@@ -28,7 +28,7 @@ OpenAI 当前定价说明把 Pro 分成两个用量档位：
 - **Pro 5x（$100/月）**：Codex 用量约为 Plus 的 5 倍；桌面语音约为每个 5 小时窗口 1–2.5 小时。
 - **Pro 20x（$200/月）**：Codex 用量约为 Plus 的 20 倍；桌面语音可无限使用，但语音启动的任务仍计入 Codex 用量。
 
-两档都包含 Plus 的功能，并可使用 GPT-5.3-Codex-Spark 研究预览。实际消息数量还会受到模型、任务复杂度、上下文、工具调用和是否在云端运行等因素影响。
+两档都包含 Plus 的 GPT-5.6 Sol、Terra、Luna 模型系列及其他功能。实际消息数量还会受到模型、任务复杂度、上下文、工具调用和是否在云端运行等因素影响。
 
 ## 为什么每个人看到的金额可能不同
 
