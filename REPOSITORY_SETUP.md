@@ -9,18 +9,24 @@
 ## Description
 
 ```text
-中文 ChatGPT Plus 订阅指南：官方价格、付款失败排查、第三方服务风险与邀请码说明。
+2026 ChatGPT Plus 中文订阅指南：国内支付方式、官方价格、付款失败排查、第三方服务风险与 WildAI 推广披露。
 ```
 
 ## Topics
 
 ```text
-chatgpt
-chatgpt-plus
-subscription-guide
-payment-guide
 ai-tools
+chatgpt
+chatgpt-china
+chatgpt-guide
+chatgpt-payment
+chatgpt-plus
+chatgpt-subscription
 chinese
+openai
+payment-guide
+subscription-guide
+wildai
 ```
 
 ## 建议设置
@@ -30,12 +36,13 @@ chinese
 - Discussions：前期关闭，避免无力维护
 - Wiki：关闭，文章统一放在仓库内
 - GitHub Pages：不开启；当前方案以 README 和 `guides/` 为主
+- Website：暂时留空；本仓库是独立指南，不把第三方服务官网标成项目官网
 - Releases：不需要
 
 ## 发布后检查
 
 1. 仓库首页能完整显示 README、表格和邀请码截图；
-2. 七篇 `guides/` 文章链接全部可打开；
+2. 八篇 `guides/` 文章链接全部可打开；
 3. WildAI 链接跳转到 `https://bewild.ai/?code=AIG`；
 4. About 区填写 Description 和 Topics；
 5. 不在其他项目的 Issue、PR 或评论区投放链接；

@@ -1,12 +1,12 @@
 # WildAI 邀请码 AIG：如何填写及优惠说明
 
-> 最后核对：2026-08-20。活动可能调整，请以 WildAI 注册页面实时显示为准。
+> 最后核对：2026-09-01。活动、价格与库存可能调整，请以 WildAI 注册或结算页面实时显示为准。
 
 ## 邀请码是什么
 
-根据 WildAI 当前注册页面的活动说明，注册时填写邀请码 **AIG**，可以额外优惠 **1 美元**。
+邀请码 **AIG** 用于识别本项目的推广来源。是否有优惠、优惠多少以及适用于哪些产品，都以注册或结算页面实际显示为准；本文不承诺固定减免金额。
 
-注册链接：<https://bewild.ai/?code=AIG>
+注册链接：[打开 WildAI 并自动携带 AIG](https://bewild.ai/?code=AIG&utm_source=github&utm_medium=content&utm_campaign=chatgpt_subscription_guide)
 
 ![WildAI 注册窗口中自动填入邀请码 AIG](../assets/wildai-invite-aig-2026-08-20.png)
 
@@ -22,9 +22,13 @@ AIG
 
 1. 确认浏览器地址栏域名是 `bewild.ai`；
 2. 确认邀请码栏显示 `AIG`；
-3. 确认优惠已经在注册或结算页面体现；
+3. 如页面宣称有优惠，确认优惠已经在注册或结算页面体现；
 4. 核对最终价格、服务周期和退款规则；
 5. 阅读服务条款与隐私政策后再决定。
+
+## 凭证与第三方风险
+
+WildAI 不是 OpenAI 官方服务。WildAI 通常不要求用户提供 OpenAI 账户密码，但部分订阅或续费流程可能需要支付链接；某些产品流程也可能处理 Cookie、Session Token 或账号标识。提交前应阅读其[服务条款](https://bewild.ai/terms-of-service)和[隐私政策](https://bewild.ai/privacy-policy)，确认用途、保存期限、删除方式及退款规则。
 
 ## 为什么仍然要以页面为准
 
@@ -32,7 +36,7 @@ AIG
 
 ## 推广关系说明
 
-该链接包含邀请码 AIG。用户通过链接注册或购买后，本项目维护者可能获得推广收益，但不会因此增加用户支付价格。本项目不参与 WildAI 的交易、账号操作、退款或售后。
+该链接包含邀请码 AIG。用户通过链接注册或购买后，本项目维护者可能获得推广收益。是否存在优惠及最终支付金额，以页面显示为准。本项目不参与 WildAI 的交易、账号操作、退款或售后。
 
 ## 非官方声明
 
@@ -42,4 +46,5 @@ AIG
 
 - [官方订阅与第三方服务对比](official-vs-third-party.md)
 - [第三方订阅账号安全清单](account-safety.md)
+- [国内订阅 ChatGPT Plus 指南](chatgpt-plus-china-guide.md)
 - [返回项目首页](../README.md)

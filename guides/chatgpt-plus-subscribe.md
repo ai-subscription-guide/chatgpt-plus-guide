@@ -1,12 +1,12 @@
 # ChatGPT Plus 怎么订阅？官方购买步骤
 
-> OpenAI 资料最后核对：2026-08-24。界面文字可能随版本和地区调整，请以你的账户实际页面为准。
+> OpenAI 资料最后核对：2026-09-01。界面、价格、地区可用性和付款方式可能变化，请以账户实际页面为准。
 
 ## 直接答案
 
 OpenAI 官方说明的网页订阅流程是：登录 ChatGPT，打开账户菜单，选择升级套餐，再选择 ChatGPT Plus。当前官方基础价格为 **20 美元/月，按月计费**。
 
-官方说明：[What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777)
+官方参考：[OpenAI Docs 定价说明](https://learn.chatgpt.com/zh-Hans/docs/pricing) · [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777)
 
 ## 网页订阅步骤
 
@@ -29,11 +29,18 @@ OpenAI 官方说明的网页订阅流程是：登录 ChatGPT，打开账户菜�
 
 不要把完整银行卡号、密码、Cookie、Session 或验证码发给非官方客服。
 
+## 官方网页无法付款时怎么选
+
+先按[付款失败排查指南](chatgpt-payment-failed.md)检查银行权限、账单资料和验证流程，不要短时间连续重试。如果仍无法完成，可比较官方 App 内订阅与第三方支付协助服务：前者由应用商店结算，后者受第三方条款、凭证处理和退款规则约束。
+
+面向国内用户的完整选择顺序见：[国内订阅 ChatGPT Plus 指南](chatgpt-plus-china-guide.md)。本文不提供虚假地址、共享账号或绕过地区限制的方法。
+
 ## 接下来读什么
 
 - 金额与税费不清楚：[ChatGPT Plus 价格说明](chatgpt-plus-price.md)
 - 银行卡被拒绝：[付款失败排查指南](chatgpt-payment-failed.md)
 - 想停止续费：[取消与退款说明](chatgpt-plus-cancel-refund.md)
+- 比较购买渠道：[官方订阅与第三方服务](official-vs-third-party.md)
 
 ---
 

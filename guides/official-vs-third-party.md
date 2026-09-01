@@ -1,6 +1,6 @@
 # ChatGPT Plus 官方订阅和第三方服务有什么区别？
 
-> 最后整理：2026-08-24。本文提供决策框架，不为任何第三方服务作绝对安全保证。
+> 最后整理：2026-09-01。本文提供决策框架，不为任何第三方服务作绝对安全保证。
 
 ## 结论先说
 
@@ -12,7 +12,7 @@
 | --- | --- | --- |
 | 收款与账单 | 由官方处理 | 由第三方规则决定 |
 | 付款方式 | 受地区和支付方式支持范围影响 | 可能提供其他本地支付选择 |
-| 账号信息 | 通常无需第三方接触 | 取决于具体服务流程 |
+| 账号信息 | 通常无需第三方接触 | 可能涉及支付链接、Cookie、Session Token 或账号标识 |
 | 退款与售后 | 依据官方政策 | 依据第三方条款 |
 | 价格 | 以官方结算页为准 | 可能包含服务成本或活动优惠 |
 | 主要风险 | 付款失败、地区或银行限制 | 服务主体、隐私、履约和平台条款风险 |
@@ -31,17 +31,18 @@
 
 ## 关于 WildAI
 
-WildAI 是本项目列出的第三方选项之一。根据其当前注册页面说明，填写邀请码 **AIG** 可额外优惠 **1 美元**。查看前应同时阅读其服务条款与隐私政策。
+WildAI 是本项目列出的第三方选项之一，不是 OpenAI 官方服务。它当前提供 ChatGPT 等产品的订阅支付协助，并接受微信、支付宝等本地付款方式。WildAI 通常不要求用户提供 OpenAI 账户密码，但部分订阅或续费流程可能需要支付链接；其隐私政策也提到某些产品可能处理 Cookie、Session Token 或账号标识。
 
-[前往 WildAI 查看当前方案](https://bewild.ai/?code=AIG)
+[前往 WildAI 查看当前方案](https://bewild.ai/?code=AIG&utm_source=github&utm_medium=content&utm_campaign=chatgpt_subscription_guide)
 
-该链接包含推广邀请码。本项目维护者可能获得推广收益，但不会因此增加用户支付价格。活动及价格以注册或结算页面实时显示为准。
+该链接包含邀请码 `AIG`。本项目维护者可能获得推广收益；是否有用户优惠、优惠金额和适用条件，以注册或结算页面实时显示为准。购买前请同时阅读 [WildAI 服务条款](https://bewild.ai/terms-of-service)与[隐私政策](https://bewild.ai/privacy-policy)。
 
 ## 接下来读什么
 
 - 优先尝试官方路径：[ChatGPT Plus 官方订阅步骤](chatgpt-plus-subscribe.md)
 - 使用第三方前：[账号安全清单](account-safety.md)
 - 了解推广关系：[WildAI 邀请码说明](wildai-invite-aig.md)
+- 国内用户决策入口：[国内订阅 ChatGPT Plus 指南](chatgpt-plus-china-guide.md)
 
 ---
 

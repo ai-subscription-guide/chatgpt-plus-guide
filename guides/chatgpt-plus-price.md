@@ -1,12 +1,23 @@
 # ChatGPT Plus 多少钱？价格、税费与汇率怎么看
 
-> OpenAI 资料最后核对：2026-08-24。价格可能变化，请以 OpenAI 结算页面为准。
+> OpenAI 资料最后核对：2026-09-01。价格可能变化，请以 OpenAI 结算页面为准。
 
 ## 直接答案
 
 OpenAI 当前官方说明显示，ChatGPT Plus 的基础价格为 **20 美元/月，按月计费**。用户最终支付金额可能受到当地税费、结算币种、汇率以及发卡行费用影响，因此银行卡账单上的人民币金额不一定等于按即时汇率简单换算的数字。
 
-官方价格入口：[ChatGPT Pricing](https://openai.com/chatgpt/pricing/)
+官方价格入口：[OpenAI Docs 定价说明](https://learn.chatgpt.com/zh-Hans/docs/pricing)
+
+## 当前公开套餐怎么理解
+
+| 套餐 | 当前公开起价 | 说明 |
+| --- | ---: | --- |
+| Free | $0/月 | 适合轻度体验，功能和用量有限制 |
+| Plus | $20/月 | 面向个人用户，功能与额度会调整 |
+| Pro | $100/月起 | 有不同额度档位，不应笼统理解为所有功能无限 |
+| Business | $20/用户/月起 | 年付起价，至少 2 位用户；月付价格不同 |
+
+Enterprise 与 Edu 通常需要联系销售。ChatGPT 订阅和 API 是两套计费系统，Plus 不包含 API 使用额度。
 
 ## 为什么每个人看到的金额可能不同
 
@@ -39,6 +50,7 @@ OpenAI 关于本地币种的说明：[Multi-currency billing](https://help.opena
 - 准备购买：[ChatGPT Plus 官方订阅步骤](chatgpt-plus-subscribe.md)
 - 付款被拒绝：[银行卡失败排查指南](chatgpt-payment-failed.md)
 - 需要停止续费：[取消与退款说明](chatgpt-plus-cancel-refund.md)
+- 国内支付选择：[国内订阅 ChatGPT Plus 指南](chatgpt-plus-china-guide.md)
 
 ---
 
