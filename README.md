@@ -33,14 +33,18 @@
 
 ## 30 秒看懂：ChatGPT Plus 怎么订阅
 
-- ChatGPT Plus 当前公开基础价格为 **20 美元/月**，按月计费；API 使用费不包含在 Plus 中。
-- 如果你的所在地、账号和付款方式符合官方要求，优先通过 ChatGPT 官方结算页面订阅。
-- 如果网页付款条件不满足，可以比较 Apple 应用内订阅和第三方支付协助服务，但两者都有额外条件与风险。
-- 不要把 OpenAI 账号密码或银行卡完整信息通过聊天工具交给个人。
-- 部分第三方服务可能要求支付链接、Cookie 或 Session Token 等“订阅凭证”。这不等同于密码，但仍属于敏感信息；提交前必须阅读其隐私政策、保存期限和删除方式。
-- 本文讨论的是订阅与付款选择，不提供绕过地区、身份验证或平台规则的方法。
+ChatGPT Plus 官方价格是 **20 美元一个月**，按月扣费，API 用量另算，不包含在 Plus 里面。
 
-官方入口：[ChatGPT](https://chatgpt.com/) · [OpenAI Docs 当前定价说明](https://learn.chatgpt.com/zh-Hans/docs/pricing)
+如果你的账号、所在地区和银行卡都符合 OpenAI 的要求，最好的选择就是直接去官网付款，没有中间商、没有溢价，退款也走官方流程，没什么好纠结的。
+
+但现实是，很多国内用户仍会遇到支付失败。OpenAI 的支付风控可能核验发卡行地区；国内银行发行的卡，甚至部分香港发行的 Visa 或 Mastercard，也可能因为地区或支付方式不受支持而被拒绝。
+
+付不了怎么办？目前主流的替代方案有两条路：
+
+1. 通过美区 Apple ID 加礼品卡，在 iOS 端完成订阅；
+2. 使用第三方服务，例如 [WildAI](https://bewild.ai?code=AIG)，直接通过微信或支付宝付款，将自己的 Free 账号订阅成 Plus 或 Pro。
+
+官方入口：[ChatGPT](https://chatgpt.com/) · [OpenAI 当前定价说明](https://learn.chatgpt.com/zh-Hans/docs/pricing) · [WildAI 微信/支付宝订阅入口](https://bewild.ai?code=AIG)
 
 ---
 
