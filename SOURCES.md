@@ -6,7 +6,7 @@
 
 | 来源 | 用途 | 核对日期 |
 | --- | --- | --- |
-| [OpenAI Docs 定价说明](https://learn.chatgpt.com/zh-Hans/docs/pricing) | 当前套餐名称、公开起价、功能及地区差异说明 | 2026-09-01 |
+| [OpenAI Docs 定价说明](https://learn.chatgpt.com/zh-Hans/docs/pricing) | Free、Go、Plus、Pro 5x、Pro 20x、Business 的价格、功能与用量差异 | 2026-09-01 |
 | [What is ChatGPT Plus?](https://help.openai.com/en/articles/6950777) | Plus 价格、订阅步骤、账单入口及扣款后未激活排查 | 2026-08-24 |
 | [ChatGPT Pricing](https://openai.com/chatgpt/pricing/) | ChatGPT 套餐及官方价格入口 | 2026-08-24 |
 | [Why was my credit card declined?](https://help.openai.com/en/articles/7232916-why-was-my-credit-card-declined) | 银行卡失败原因和排查方向 | 2026-08-24 |
