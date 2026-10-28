@@ -1,6 +1,6 @@
 # ChatGPT Plus 多少钱？价格、税费与汇率怎么看
 
-> OpenAI 资料最后核对：2026-09-01。价格可能变化，请以 OpenAI 结算页面为准。
+> OpenAI 资料最后核对：2026-10-28。价格可能变化，请以 OpenAI 结算页面为准。
 
 ## 直接答案
 
@@ -10,25 +10,22 @@ OpenAI 当前官方说明显示，ChatGPT Plus 的基础价格为 **20 美元/�
 
 ## 当前公开套餐怎么理解
 
-| 套餐 | 当前公开价格 | 主要功能区别 |
+| 套餐 | 美国月付参考 | 选择重点 |
 | --- | ---: | --- |
-| Free | $0/月 | 体验简短编程任务，模型、功能和用量有限制 |
-| Go | $8/月 | 面向轻量级编程任务 |
-| Plus | $20/月 | Web、CLI、IDE 扩展和 iOS；自动代码审查、Slack 集成、GPT-5.6 模型系列 |
-| Pro 5x | $100/月 | 包含 Plus 的 GPT-5.6 Sol、Terra、Luna 与其他功能；Codex 用量约为 Plus 的 5 倍 |
-| Pro 20x | $200/月 | 包含 Plus 的 GPT-5.6 Sol、Terra、Luna 与其他功能；Codex 用量约为 Plus 的 20 倍；无限桌面语音 |
-| Business | $20/用户/月起 | 团队工作区、管理控制、SAML SSO 和 MFA；年付起价且至少 2 位用户 |
+| Free | $0 | 先体验任务与功能 |
+| Go | $8 | 轻量使用，核对所需功能 |
+| Plus | $20 | 日常工作、更高模型与工具用量 |
+| Pro 100 | $100 | 更高使用量的 Pro 入门档 |
+| Pro 200 | $200 | 用量高于 Pro 100 |
+| Pro 500 | $500 | 最高 Pro 用量，包含 Ultrafast |
 
-Enterprise 与 Edu 通常需要联系销售。Pro 20x 的“无限语音”不代表 Codex 任务无限：通过语音发起的任务仍会消耗 Codex 用量。ChatGPT 订阅和 API 是两套计费系统，Plus、Go 和 Pro 都不包含 API 使用额度。
+上述个人套餐依据 [OpenAI Docs](https://learn.chatgpt.com/docs/pricing) 与 [Pro 官方说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)，不含税费与第三方服务费。Business、Enterprise 和 Edu 应另按席位、管理与组织需求查看。
 
-## Pro 5x 和 Pro 20x 有什么区别
+## 不要继续按旧的 Pro 倍数选套餐
 
-OpenAI 当前定价说明把 Pro 分成两个用量档位：
+当前 Pro 已有 100、200、500 美元三档，不能把旧的“5x / 20x”当成所有功能统一倍数。Pro 200 部分符合条件的老订阅可保留过渡用量至 2026-10-29；具体以账号和官方通知为准。
 
-- **Pro 5x（$100/月）**：Codex 用量约为 Plus 的 5 倍；桌面语音约为每个 5 小时窗口 1–2.5 小时。
-- **Pro 20x（$200/月）**：Codex 用量约为 Plus 的 20 倍；桌面语音可无限使用，但语音启动的任务仍计入 Codex 用量。
-
-两档都包含 Plus 的 GPT-5.6 Sol、Terra、Luna 模型系列及其他功能。实际消息数量还会受到模型、任务复杂度、上下文、工具调用和是否在云端运行等因素影响。
+Codex 的 Plus 使用估算采用五小时窗口，Pro 当前没有五小时限额；每周或模型限制仍可能适用。API 单独计费，不能把套餐价格直接除以 API token 价格估算固定任务数量。
 
 ## 为什么每个人看到的金额可能不同
 
@@ -66,3 +63,8 @@ OpenAI 关于本地币种的说明：[Multi-currency billing](https://help.opena
 ---
 
 本站不是 OpenAI 官方网站，与 OpenAI 不存在隶属或授权关系。
+
+
+---
+
+返回 [ChatGPT Plus 中文订阅指南：价格、支付与问题排查](https://github.com/ai-subscription-guide/chatgpt-plus-guide)。

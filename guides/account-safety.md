@@ -40,4 +40,4 @@
 - [官方订阅与第三方服务对比](official-vs-third-party.md)
 - [ChatGPT Plus 付款失败排查](chatgpt-payment-failed.md)
 - [国内订阅 ChatGPT Plus 指南](chatgpt-plus-china-guide.md)
-- [返回项目首页](../README.md)
+- [返回项目首页](https://github.com/ai-subscription-guide/chatgpt-plus-guide)

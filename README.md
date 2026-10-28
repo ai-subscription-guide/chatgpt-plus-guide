@@ -1,8 +1,8 @@
 # 2026 ChatGPT 订阅指南：国内如何订阅 ChatGPT Plus（价格、支付方式与避坑）
 
-这是一份帮中文用户搞定 ChatGPT Plus/Pro 的订阅指南。价格、订阅方式、付款失败怎么办、第三方靠不靠谱，我把能查到的都帮你查了，查不到的也没有瞎编。
+想订阅 ChatGPT Plus，却卡在选套餐、银行卡被拒或付款后没升级？这份中文指南把 **官方价格、购买渠道、付款排查、取消退款与第三方服务**放在一起，方便按问题查找。需要用 Codex 的，也可以先比较 Plus 与 Pro 的用量规则。
 
-📅 最后核对：2026-09-01 ｜ 价格以 [OpenAI 定价页面](https://openai.com/chatgpt/pricing/) 为准
+📅 本次更新：**2026-10-28** ｜ 已重新核对个人套餐、Plus 说明、WildAI 公开订阅卡片与隐私条款；各项来源和核对范围见 [SOURCES.md](SOURCES.md)。
 
 [![GitHub stars](https://img.shields.io/github/stars/ai-subscription-guide/chatgpt-plus-guide?style=social)](https://github.com/ai-subscription-guide/chatgpt-plus-guide)
 [![Last commit](https://img.shields.io/github/last-commit/ai-subscription-guide/chatgpt-plus-guide)](https://github.com/ai-subscription-guide/chatgpt-plus-guide/commits/main)
@@ -23,7 +23,9 @@
 - [方式三：第三方支付协助服务](#方式三第三方支付协助服务)
 - [没有海外支付条件怎么办](#没有海外支付条件怎么办)
 - [ChatGPT 付款失败排查](#chatgpt-付款失败排查)
+- [已扣款但没有升级怎么办](#已扣款但没有升级怎么办)
 - [WildAI 适合哪些用户](#wildai-适合哪些用户)
+- [WildAI 操作流程与邀请码](#wildai-操作流程与邀请码)
 - [订阅前安全检查](#订阅前安全检查)
 - [常见问题 FAQ](#常见问题-faq)
 - [取消订阅与退款](#取消订阅与退款)
@@ -41,37 +43,35 @@ ChatGPT Plus 官方价格是 **20 美元一个月**，按月扣费，API 用量�
 
 付不了怎么办？目前主流的替代方案有两条路：
 
-1. 通过美区 Apple ID 加礼品卡，在 iOS 端完成订阅；
-2. 使用第三方服务，例如 [WildAI](https://bewild.ai?code=AIG)，直接通过微信或支付宝付款，将自己的 Free 账号订阅成 Plus 或 Pro。
+1. 在账户地区、实际所在地与付款条件符合要求时，通过官方 App 内购订阅；礼品卡并非所有账户都能使用；
+2. 使用第三方服务，例如 [WildAI](https://bewild.ai/?code=AIG)，直接通过微信或支付宝付款，将自己的 Free 账号订阅成 Plus 或 Pro。
 
-官方入口：[ChatGPT](https://chatgpt.com/) · [OpenAI 当前定价说明](https://learn.chatgpt.com/zh-Hans/docs/pricing) · [WildAI 微信/支付宝订阅入口](https://bewild.ai?code=AIG)
+官方入口：[ChatGPT](https://chatgpt.com/) · [OpenAI 当前定价说明](https://learn.chatgpt.com/zh-Hans/docs/pricing) · [WildAI 微信/支付宝订阅入口](https://bewild.ai/?code=AIG)
 
 ---
 
 ## ChatGPT Go、Plus 与 Pro 当前价格
 
-以下信息核对于 2026 年 9 月 1 日，实际可见套餐、价格、税费和额度可能因账号、地区及结算渠道而不同。
+以下个人套餐参考核对于 **2026 年 10 月 28 日**，按美国美元月付口径整理。税费、本地币种、App 内购价格与可用档位，以自己的结算页为准。
 
-| 套餐 | 当前公开价格 | OpenAI 页面显示的主要功能差异 |
+| 套餐 | 月费参考 | 选择时重点看什么 |
 | --- | ---: | --- |
-| Free | $0/月 | 可体验简短的编程任务 |
-| **Go** | **$8/月** | 面向轻量级编程任务 |
-| **Plus** | **$20/月** | 支持 Web、CLI、IDE 扩展和 iOS；包含自动代码审查、Slack 集成及 GPT-5.6 Sol、Terra、Luna |
-| **Pro 5x** | **$100/月** | 包含 Plus 的 GPT-5.6 Sol、Terra、Luna 与其他功能；Codex 用量约为 Plus 的 5 倍 |
-| **Pro 20x** | **$200/月** | 包含 Plus 的 GPT-5.6 Sol、Terra、Luna 与其他功能；Codex 用量约为 Plus 的 20 倍；桌面语音可无限使用 |
-| Business | $20/用户/月起 | 团队工作区、管理控制、SAML SSO、MFA，默认不使用业务数据训练模型 |
-| Enterprise / Edu | 联系销售 | 企业级安全、审计、身份与数据控制 |
+| Free | $0 | 先体验任务是否适合使用 ChatGPT / Codex |
+| Go | $8 | 日常使用和轻量任务，先确认高级功能是否满足需要 |
+| Plus | $20 | 更高的模型和工具用量，适合日常工作与阶段性编程 |
+| Pro 100 | $100 | Plus 用量长期不足时评估的 Pro 入门档 |
+| Pro 200 | $200 | 套餐用量高于 Pro 100 |
+| Pro 500 | $500 | Pro 三档中最高用量，并包含 Ultrafast |
 
-### Go、Plus、Pro 5x 和 Pro 20x 怎么区分？
+### Plus 与 Pro 怎么选？
 
-- **Go**：价格最低，主要面向轻量级任务。
-- **Plus**：增加完整的多端使用、云端集成和 GPT-5.6 模型系列，适合个人日常高频使用。
-- **Pro 5x**：包含 Plus 的 GPT-5.6 模型系列和其他功能，并提供约 5 倍 Codex 用量。
-- **Pro 20x**：包含 Plus 的 GPT-5.6 模型系列和其他功能，并提供约 20 倍 Codex 用量；每月 $200 档还包含无限桌面语音，但任务本身仍受 Codex 用量预算约束。
+先实际使用 Plus 并观察用量面板，确认哪项限制影响任务，再比较升级和补充 credits 的成本。Pro 的各模型仍可能有单独限额，不等于所有功能无限使用。
 
-上面的“5x”和“20x”指 OpenAI 定价页所述的 **Codex 用量相对 Plus 的倍数**，不代表 ChatGPT 所有模型和功能都可以无限使用。具体模型、额度和功能变化较快，应以账号中的套餐页面为准。
+**Codex 规则要分套餐看：Plus 的消息估算采用五小时窗口；Pro 当前没有五小时限额，每周或模型限额仍可能适用。** 旧教程里的“Pro 5x / 20x”不是当前所有功能的统一保证。符合条件的老 Pro 200 订阅有过渡用量安排，官方说明保留至 2026 年 10 月 29 日，之后按调整后规则执行。
 
-> 数据来源：[OpenAI Docs 定价说明](https://learn.chatgpt.com/zh-Hans/docs/pricing)。该页面也明确说明套餐功能和用量受计划、地区及工作区设置影响。
+企业与组织套餐涉及席位、管理及数据要求，不与个人月付价格混在一起比较。ChatGPT 套餐不包含 OpenAI API 余额，使用 API Key 的费用需要另外核算。
+
+> 来源：[OpenAI Docs 定价与用量](https://learn.chatgpt.com/docs/pricing)、[Plus 官方说明](https://help.openai.com/en/articles/6950777)、[Pro 档位与账单说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)。
 
 ---
 
@@ -117,10 +117,12 @@ ChatGPT Plus 官方价格是 **20 美元一个月**，按月扣费，API 用量�
 
 - ChatGPT App 和订阅在该 Apple ID 地区是否可用。
 - 礼品卡或账户余额是否与 Apple ID 地区一致。
-- 余额是否足以覆盖订阅价格、税费或汇率差异。
+- 余额是否足以覆盖订阅价格、税费或汇率差异；部分购买仍可能要求另有有效付款方式。
 - 取消和退款由 Apple 处理，不一定与网页订阅规则相同。
 
 不建议为了订阅填写虚假身份或账单信息，也不要购买来源不明、价格异常的礼品卡。Apple ID 地区变更可能影响现有余额和其他订阅，操作前应先阅读 Apple 的当前规则。
+
+Google Play 也属于官方 App 内购路径，但礼品卡有兑换地和余额使用地限制，不能把改区或更换网络视为满足购买条件。参见 [Apple 余额用途](https://support.apple.com/en-us/118245)、[Google Play 礼品卡说明](https://support.google.com/googleplay/answer/11564359?hl=zh-Hans)。
 
 👉 详细说明见 [ChatGPT Plus 订阅步骤](guides/chatgpt-plus-subscribe.md)
 
@@ -185,9 +187,22 @@ ChatGPT Plus 官方价格是 **20 美元一个月**，按月扣费，API 用量�
 
 ---
 
+## 已扣款但没有升级怎么办
+
+先区分银行待处理授权和已完成扣款，**不要直接再买一次**。
+
+1. 查看订单或收据，确认购买渠道是网页、Apple、Google Play 还是第三方服务。
+2. 核对 ChatGPT 的账号邮箱及原登录方式；收据邮箱与实际购买账号可能不同。
+3. 苹果内购可在 ChatGPT iOS App 的账户设置中尝试“恢复购买”；若提示关联其他账号，先找回原购买账号。
+4. 仍未解决时，按渠道联系支持，提供购买时间、金额、订单号与错误信息；不要公开完整支付资料或凭证。
+
+依据：[订阅关联其他账号的官方说明](https://help.openai.com/en/articles/20001056)。取消续费和申请退款是两件事，处理入口见下方退款部分。
+
+---
+
 ## WildAI 适合哪些用户
 
-[WildAI（bewild.ai）](https://bewild.ai/?code=AIG&utm_source=github&utm_medium=content&utm_campaign=chatgpt_subscription_guide)当前将自己描述为第三方订阅管理和支付协助平台，可为 ChatGPT、Claude 等服务提供订阅相关支持，并接受微信、支付宝等付款方式。它不是 OpenAI 官方服务。
+[WildAI（bewild.ai）](https://bewild.ai/?code=AIG)当前将自己描述为第三方订阅管理和支付协助平台，可为 ChatGPT、Claude 等服务提供订阅相关支持，并接受微信、支付宝等付款方式。它不是 OpenAI 官方服务。
 
 ### 可能适合
 
@@ -204,20 +219,21 @@ ChatGPT Plus 官方价格是 **20 美元一个月**，按月扣费，API 用量�
 
 ### WildAI ChatGPT 套餐价格（美元）
 
-以下为 2026 年 9 月 1 日页面显示的价格快照：
+本次于 **2026-10-28** 查看未登录的 [WildAI 订阅页](https://bewild.ai/subscribe)：ChatGPT 的 **Plus / Pro 服务卡片展示 $22.99/mo**。这是公开入口卡片的展示，**不能当成所有 Pro 档位的月费，也不是本次完成支付的订单实测**。
 
-| 套餐 | 1 个月 | 2 个月 | 3 个月 |
-| --- | ---: | ---: | ---: |
-| ChatGPT Go | $8.99 | $15.99 | $23.99 |
-| ChatGPT Plus | $22.99 | $41.99 | $61.99 |
-| ChatGPT Pro 5 倍 | $103.99 | $202.99 | $302.99 |
-| ChatGPT Pro 20 倍 | $203.99 | $402.99 | $611.49（暂时售罄） |
+此前的多周期与“Pro 5 倍 / 20 倍”报价表已经移除，避免把旧快照误当当前售价。下单时应重新确认：
 
-> 2 个月和 3 个月套餐显示为总价，并按月自动到账。以上是 WildAI 第三方服务价格，不是 OpenAI 官方结算价格；库存、优惠和实际支付金额可能变化，请以下单页面实时显示为准。
+| 需要核对 | 为什么要看 |
+| --- | --- |
+| 产品及具体档位 | ChatGPT Plus、Pro 与 API 额度不是同一个产品 |
+| 周期及交付方式 | 多个月的服务安排不等于 OpenAI 官方年付或提前预付 |
+| 总价与服务费 | 区分官方套餐价格与第三方服务报价 |
+| 新订阅还是续订 | 已有套餐的账号可能有额外条件 |
+| 退款与售后范围 | 订阅失败、续费异常和上游账号受限应分开查看 |
 
 ### WildAI 凭证与隐私提醒
 
-WildAI 当前隐私政策说明，部分产品可能要求用户主动提交“Subscription Credentials”，其中可能包括 Session Token、Cookie、支付链接或账号标识，用于订阅、续费、支付或账户维护操作。其政策同时说明会对凭证进行加密和权限控制，并允许用户申请删除，但也保留为支持、争议、安全或合规目的有限留存的空间。
+WildAI 于 2026-10-23 更新的隐私政策说明，部分产品可能要求用户主动提交“Subscription Credentials”，其中可能包括 Session Token、Cookie、支付链接或账号标识，用于订阅、续费、支付或账户维护操作。其政策同时说明会对凭证进行加密和权限控制，并允许用户申请删除，但也保留为支持、争议、安全或合规目的有限留存的空间。
 
 因此，准确的说法不是“WildAI 完全不接触登录凭证”，而是：
 
@@ -230,9 +246,25 @@ WildAI 当前隐私政策说明，部分产品可能要求用户主动提交“S
 - [WildAI 隐私政策](https://bewild.ai/privacy-policy)
 - [WildAI 推广与奖励政策](https://bewild.ai/rewards-affiliate-policy)
 
-**邀请码**：当前推广内容使用邀请码 `AIG`。是否有优惠、优惠多少以及适用条件，均以注册或结算页面实际显示为准。
+**邀请码**：填写邀请码 **AIG，可享 1 美元优惠**；请在注册或结算页确认适用条件及最终减免。此优惠口径按项目维护者提供的信息记录，不表示本次已完成优惠结算实测。
 
-👉 [查看 WildAI 当前订阅方案](https://bewild.ai/?code=AIG&utm_source=github&utm_medium=content&utm_campaign=chatgpt_subscription_guide)
+👉 [查看 WildAI 当前订阅方案](https://bewild.ai/?code=AIG)
+
+---
+
+## WildAI 操作流程与邀请码
+
+1. 打开 [WildAI 邀请入口](https://bewild.ai/?code=AIG)，核对浏览器域名。
+2. 注册或登录平台，确认邀请码栏显示 `AIG`；没有自动填入时再手动填写。
+3. 选择产品、套餐和新订阅/续订，查看最终金额、授权要求与售后条款。
+4. 按页面当前顺序完成必要步骤。付款与授权的先后可能随产品变化，不照搬旧截图操作。
+5. 完成后同时查看平台订单状态与原 ChatGPT 账号的套餐权益；异常时按原渠道查询。
+
+![WildAI 邀请码 AIG 自动填写的历史注册示例](assets/wildai-invite-aig-2026-08-20.png)
+
+*这是 2026-08-20 的历史注册界面，只展示邀请码填写，不是本次付款、优惠结算或权益到账证明。当前界面以实际页面为准。*
+
+完整说明见 [邀请码 AIG 使用指南](guides/wildai-invite-aig.md)。本文包含邀请推广链接，维护者可能获得推广收益。
 
 ---
 
@@ -323,7 +355,8 @@ Plus 通常提供更高的模型和功能额度，并包含更多高级能力，
 
 | 来源 | 用途 |
 | --- | --- |
-| [OpenAI Docs 定价说明](https://learn.chatgpt.com/zh-Hans/docs/pricing) | 当前套餐名称、公开价格与功能边界 |
+| [OpenAI Docs 定价说明](https://learn.chatgpt.com/docs/pricing) | 个人套餐、Codex 短周期限额与用量说明 |
+| [Pro 档位说明](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers) | Pro 100/200/500、Ultrafast 与过渡安排 |
 | [WildAI 套餐页](https://bewild.ai/subscribe) | WildAI 当前公开产品与价格入口 |
 | [WildAI 服务条款](https://bewild.ai/terms-of-service) | 服务范围、第三方平台风险和责任边界 |
 | [WildAI 隐私政策](https://bewild.ai/privacy-policy) | Cookie、Session Token、支付链接等订阅凭证处理方式 |
@@ -335,6 +368,7 @@ Plus 通常提供更高的模型和功能额度，并包含更多高级能力，
 
 | 日期 | 更新内容 |
 | --- | --- |
+| 2026-10-28 | 核对个人套餐和 Codex 限额，移除旧 Pro 倍数与多周期报价，补充到账排查、操作流程和历史截图说明 |
 | 2026-09-01 | 重写首页并更新套餐价格；新增国内订阅入口页；扩充付款失败、取消退款、安全与推广披露 |
 | 2026-08-24 | 初次整理官方订阅、价格、付款失败和安全资料 |
 

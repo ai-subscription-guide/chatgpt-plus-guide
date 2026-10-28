@@ -45,7 +45,7 @@ ChatGPT Plus 当前公开基础价格为 **20 美元/月**。国内用户应先�
 
 ## WildAI 作为第三方选项
 
-[WildAI](https://bewild.ai/?code=AIG&utm_source=github&utm_medium=content&utm_campaign=chatgpt_subscription_guide) 当前将自己描述为 AI 订阅管理和支付协助平台，并提供微信、支付宝等付款选择。它不是 OpenAI 官方服务。
+[WildAI](https://bewild.ai/?code=AIG) 当前将自己描述为 AI 订阅管理和支付协助平台，并提供微信、支付宝等付款选择。它不是 OpenAI 官方服务。
 
 WildAI 通常不要求用户提供 OpenAI 账户密码，但部分订阅或续费流程可能需要支付链接。其隐私政策还说明，某些产品可能处理 Cookie、Session Token 或账号标识等订阅凭证。购买前应查看当前[套餐页面](https://bewild.ai/subscribe)、[服务条款](https://bewild.ai/terms-of-service)和[隐私政策](https://bewild.ai/privacy-policy)。
 
@@ -73,4 +73,4 @@ WildAI 通常不要求用户提供 OpenAI 账户密码，但部分订阅或续�
 
 本项目不是 OpenAI 或 WildAI 官方项目，不处理付款、账号登录或售后，不收集密码、Cookie、Session Token、验证码、支付链接或银行卡资料。本文包含 WildAI 推广链接，维护者可能获得推广收益，但不因此承诺订阅成功、固定优惠、账号安全或搜索排名。
 
-返回[项目首页](../README.md)查看完整价格表、更新记录和全部来源。
+返回[项目首页](https://github.com/ai-subscription-guide/chatgpt-plus-guide)查看完整价格表、更新记录和全部来源。

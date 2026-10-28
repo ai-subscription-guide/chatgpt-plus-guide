@@ -51,3 +51,8 @@
 ---
 
 本项目不是 OpenAI 官方客服，不参与订阅、扣款或退款处理。
+
+
+---
+
+返回 [ChatGPT Plus 中文订阅指南：价格、支付与问题排查](https://github.com/ai-subscription-guide/chatgpt-plus-guide)。

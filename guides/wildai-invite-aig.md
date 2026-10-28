@@ -6,7 +6,7 @@
 
 邀请码 **AIG** 用于识别本项目的推广来源。是否有优惠、优惠多少以及适用于哪些产品，都以注册或结算页面实际显示为准；本文不承诺固定减免金额。
 
-注册链接：[打开 WildAI 并自动携带 AIG](https://bewild.ai/?code=AIG&utm_source=github&utm_medium=content&utm_campaign=chatgpt_subscription_guide)
+注册链接：[打开 WildAI 并自动携带 AIG](https://bewild.ai/?code=AIG)
 
 ![WildAI 注册窗口中自动填入邀请码 AIG](../assets/wildai-invite-aig-2026-08-20.png)
 
@@ -47,4 +47,4 @@ WildAI 不是 OpenAI 官方服务。WildAI 通常不要求用户提供 OpenAI �
 - [官方订阅与第三方服务对比](official-vs-third-party.md)
 - [第三方订阅账号安全清单](account-safety.md)
 - [国内订阅 ChatGPT Plus 指南](chatgpt-plus-china-guide.md)
-- [返回项目首页](../README.md)
+- [返回项目首页](https://github.com/ai-subscription-guide/chatgpt-plus-guide)

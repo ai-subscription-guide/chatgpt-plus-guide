@@ -45,3 +45,8 @@ OpenAI 官方说明的网页订阅流程是：登录 ChatGPT，打开账户菜�
 ---
 
 本项目不是 OpenAI 官方网站，与 OpenAI 不存在隶属或授权关系。
+
+
+---
+
+返回 [ChatGPT Plus 中文订阅指南：价格、支付与问题排查](https://github.com/ai-subscription-guide/chatgpt-plus-guide)。

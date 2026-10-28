@@ -53,3 +53,8 @@ OpenAI 官方帮助说明，付款方式和发卡地区需要满足服务支持�
 ---
 
 本站不会要求或保存密码、Cookie、Session、验证码或银行卡信息。
+
+
+---
+
+返回 [ChatGPT Plus 中文订阅指南：价格、支付与问题排查](https://github.com/ai-subscription-guide/chatgpt-plus-guide)。
