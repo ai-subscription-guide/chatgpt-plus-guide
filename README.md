@@ -12,6 +12,14 @@
 
 ---
 
+## ChatGPT 新手图文教程
+
+从注册、下载到订阅，按需要选择对应教程：
+
+- [ChatGPT 邮箱注册教程](guides/chatgpt-register.md)
+- [安卓与 iPhone 下载教程](guides/chatgpt-download-mobile.md)
+- [Windows 与 Mac 下载教程](guides/chatgpt-download-desktop.md)
+
 ## 目录
 
 - [30 秒看懂：ChatGPT Plus 怎么订阅](#30-秒看懂chatgpt-plus-怎么订阅)
@@ -44,9 +52,9 @@ ChatGPT Plus 官方价格是 **20 美元一个月**，按月扣费，API 用量�
 付不了怎么办？目前主流的替代方案有两条路：
 
 1. 在账户地区、实际所在地与付款条件符合要求时，通过官方 App 内购订阅；礼品卡并非所有账户都能使用；
-2. 使用第三方服务，例如 [WildAI](https://bewild.ai/?code=AIG)，直接通过微信或支付宝付款，将自己的 Free 账号订阅成 Plus 或 Pro。
+2. 使用第三方服务，例如 [WildAI](https://bewild.ai/?code=1103)，直接通过微信或支付宝付款，将自己的 Free 账号订阅成 Plus 或 Pro。
 
-官方入口：[ChatGPT](https://chatgpt.com/) · [OpenAI 当前定价说明](https://learn.chatgpt.com/zh-Hans/docs/pricing) · [WildAI 微信/支付宝订阅入口](https://bewild.ai/?code=AIG)
+官方入口：[ChatGPT](https://chatgpt.com/) · [OpenAI 当前定价说明](https://learn.chatgpt.com/zh-Hans/docs/pricing) · [WildAI 微信/支付宝订阅入口](https://bewild.ai/?code=1103)
 
 ---
 
@@ -202,7 +210,7 @@ Google Play 也属于官方 App 内购路径，但礼品卡有兑换地和余额
 
 ## WildAI 适合哪些用户
 
-[WildAI（bewild.ai）](https://bewild.ai/?code=AIG)当前将自己描述为第三方订阅管理和支付协助平台，可为 ChatGPT、Claude 等服务提供订阅相关支持，并接受微信、支付宝等付款方式。它不是 OpenAI 官方服务。
+[WildAI（bewild.ai）](https://bewild.ai/?code=1103)当前将自己描述为第三方订阅管理和支付协助平台，可为 ChatGPT、Claude 等服务提供订阅相关支持，并接受微信、支付宝等付款方式。它不是 OpenAI 官方服务。
 
 ### 可能适合
 
@@ -246,25 +254,25 @@ WildAI 于 2026-10-23 更新的隐私政策说明，部分产品可能要求用�
 - [WildAI 隐私政策](https://bewild.ai/privacy-policy)
 - [WildAI 推广与奖励政策](https://bewild.ai/rewards-affiliate-policy)
 
-**邀请码**：填写邀请码 **AIG，可享 1 美元优惠**；请在注册或结算页确认适用条件及最终减免。此优惠口径按项目维护者提供的信息记录，不表示本次已完成优惠结算实测。
+**邀请码**：填写邀请码 **1103，可享 1 美元优惠**；请在注册或结算页确认适用条件及最终减免。此优惠口径按项目维护者提供的信息记录，不表示本次已完成优惠结算实测。
 
-👉 [查看 WildAI 当前订阅方案](https://bewild.ai/?code=AIG)
+👉 [查看 WildAI 当前订阅方案](https://bewild.ai/?code=1103)
 
 ---
 
 ## WildAI 操作流程与邀请码
 
-1. 打开 [WildAI 邀请入口](https://bewild.ai/?code=AIG)，核对浏览器域名。
-2. 注册或登录平台，确认邀请码栏显示 `AIG`；没有自动填入时再手动填写。
+1. 打开 [WildAI 邀请入口](https://bewild.ai/?code=1103)，核对浏览器域名。
+2. 注册或登录平台，确认邀请码栏显示 `1103`；没有自动填入时再手动填写。
 3. 选择产品、套餐和新订阅/续订，查看最终金额、授权要求与售后条款。
 4. 按页面当前顺序完成必要步骤。付款与授权的先后可能随产品变化，不照搬旧截图操作。
 5. 完成后同时查看平台订单状态与原 ChatGPT 账号的套餐权益；异常时按原渠道查询。
 
-![WildAI 邀请码 AIG 自动填写的历史注册示例](assets/wildai-invite-aig-2026-08-20.png)
+![WildAI 邀请码 1103 自动填写的历史注册示例](assets/wildai-invite-aig-2026-08-20.png)
 
 *这是 2026-08-20 的历史注册界面，只展示邀请码填写，不是本次付款、优惠结算或权益到账证明。当前界面以实际页面为准。*
 
-完整说明见 [邀请码 AIG 使用指南](guides/wildai-invite-aig.md)。本文包含邀请推广链接，维护者可能获得推广收益。
+完整说明见 [邀请码 1103 使用指南](guides/wildai-invite-aig.md)。本文包含邀请推广链接，维护者可能获得推广收益。
 
 ---
 
@@ -374,7 +382,7 @@ Plus 通常提供更高的模型和功能额度，并包含更多高级能力，
 
 ### 推广披露
 
-本页面包含 WildAI 推广链接和邀请码 `AIG`。用户通过相关链接注册或购买后，项目维护者可能获得推广收益。是否有优惠及具体优惠金额，以 WildAI 页面实际显示为准。
+本页面包含 WildAI 推广链接和邀请码 `1103`。用户通过相关链接注册或购买后，项目维护者可能获得推广收益。是否有优惠及具体优惠金额，以 WildAI 页面实际显示为准。
 
 推广关系不会改变本文的基本原则：能使用官方渠道时优先官方渠道；考虑第三方服务时，应同时说明服务费、凭证处理、退款规则、平台持续运营和第三方平台政策风险。
 

@@ -33,9 +33,9 @@
 
 WildAI 是本项目列出的第三方选项之一，不是 OpenAI 官方服务。它当前提供 ChatGPT 等产品的订阅支付协助，并接受微信、支付宝等本地付款方式。WildAI 通常不要求用户提供 OpenAI 账户密码，但部分订阅或续费流程可能需要支付链接；其隐私政策也提到某些产品可能处理 Cookie、Session Token 或账号标识。
 
-[前往 WildAI 查看当前方案](https://bewild.ai/?code=AIG)
+[前往 WildAI 查看当前方案](https://bewild.ai/?code=1103)
 
-该链接包含邀请码 `AIG`。本项目维护者可能获得推广收益；是否有用户优惠、优惠金额和适用条件，以注册或结算页面实时显示为准。购买前请同时阅读 [WildAI 服务条款](https://bewild.ai/terms-of-service)与[隐私政策](https://bewild.ai/privacy-policy)。
+该链接包含邀请码 `1103`。本项目维护者可能获得推广收益；是否有用户优惠、优惠金额和适用条件，以注册或结算页面实时显示为准。购买前请同时阅读 [WildAI 服务条款](https://bewild.ai/terms-of-service)与[隐私政策](https://bewild.ai/privacy-policy)。
 
 ## 接下来读什么
 

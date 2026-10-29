@@ -43,7 +43,7 @@ wildai
 
 1. 仓库首页能完整显示 README、表格和邀请码截图；
 2. 八篇 `guides/` 文章链接全部可打开；
-3. WildAI 链接跳转到 `https://bewild.ai/?code=AIG`；
+3. WildAI 链接跳转到 `https://bewild.ai/?code=1103`；
 4. About 区填写 Description 和 Topics；
 5. 不在其他项目的 Issue、PR 或评论区投放链接；
 6. 价格或活动变化时同步修改文章与 `SOURCES.md` 的核对日期。

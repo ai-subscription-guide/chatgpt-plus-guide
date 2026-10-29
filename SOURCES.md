@@ -22,12 +22,12 @@
 
 | 来源 | 可直接确认的内容 | 核对日期 |
 | --- | --- | --- |
-| [WildAI 首页](https://bewild.ai/?code=AIG) | 服务介绍及 Terms、Privacy、Affiliate 与 Contact 入口 | 2026-09-01 |
+| [WildAI 首页](https://bewild.ai/?code=1103) | 服务介绍及 Terms、Privacy、Affiliate 与 Contact 入口 | 2026-09-01 |
 | [WildAI 订阅页](https://bewild.ai/subscribe) | 未登录 ChatGPT Plus / Pro 服务卡片展示 $22.99/mo；未完成下单或优惠结算 | 2026-10-28 |
 | [WildAI 服务条款](https://bewild.ai/terms-of-service) | 订阅、支付与账号维护的服务范围；上游服务边界 | 2026-10-28 |
 | [WildAI 隐私政策](https://bewild.ai/privacy-policy) | 2026-10-23 版政策中的订阅凭证用途、存储和删除说明 | 2026-10-28 |
 | [WildAI 推广政策](https://bewild.ai/rewards-affiliate-policy) | 推广奖励与披露要求 | 2026-09-01 |
-| [邀请码注册截图](assets/wildai-invite-aig-2026-08-20.png) | `?code=AIG` 会在注册窗口自动填入邀请码 AIG | 2026-08-20 |
+| [邀请码注册截图](assets/wildai-invite-aig-2026-08-20.png) | `?code=1103` 会在注册窗口自动填入邀请码 1103 | 2026-08-20 |
 
 ## 本次更新范围（2026-10-28）
 
@@ -38,7 +38,7 @@
 
 ## 事实边界
 
-- 邀请码 `AIG` 已在注册页面出现过，但优惠是否存在、优惠金额和适用条件都可能调整，付款前必须以注册或结算页面实时显示为准。
+- 邀请码 `1103` 已在注册页面出现过，但优惠是否存在、优惠金额和适用条件都可能调整，付款前必须以注册或结算页面实时显示为准。
 - 截图仅证明核对日期当天邀请码已自动填入，不单独证明优惠已经结算。
 - 本项目没有对 OpenAI、WildAI 或任何支付服务作法律合规认证、安全认证或官方背书。
 - 服务价格、功能、支持地区、活动和条款均可能变化。发现变化时应优先修改对应文章，并同步更新核对日期。

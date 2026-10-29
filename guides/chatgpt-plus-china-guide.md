@@ -45,11 +45,11 @@ ChatGPT Plus 当前公开基础价格为 **20 美元/月**。国内用户应先�
 
 ## WildAI 作为第三方选项
 
-[WildAI](https://bewild.ai/?code=AIG) 当前将自己描述为 AI 订阅管理和支付协助平台，并提供微信、支付宝等付款选择。它不是 OpenAI 官方服务。
+[WildAI](https://bewild.ai/?code=1103) 当前将自己描述为 AI 订阅管理和支付协助平台，并提供微信、支付宝等付款选择。它不是 OpenAI 官方服务。
 
 WildAI 通常不要求用户提供 OpenAI 账户密码，但部分订阅或续费流程可能需要支付链接。其隐私政策还说明，某些产品可能处理 Cookie、Session Token 或账号标识等订阅凭证。购买前应查看当前[套餐页面](https://bewild.ai/subscribe)、[服务条款](https://bewild.ai/terms-of-service)和[隐私政策](https://bewild.ai/privacy-policy)。
 
-本文使用邀请码 `AIG`。维护者可能因用户注册或购买获得推广收益；是否有优惠、优惠金额和适用条件均以 WildAI 页面实时显示为准。邀请码说明见[WildAI 邀请码 AIG](wildai-invite-aig.md)。
+本文使用邀请码 `1103`。维护者可能因用户注册或购买获得推广收益；是否有优惠、优惠金额和适用条件均以 WildAI 页面实时显示为准。邀请码说明见[WildAI 邀请码 1103](wildai-invite-aig.md)。
 
 ## 常见问题
 
